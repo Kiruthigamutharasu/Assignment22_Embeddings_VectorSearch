@@ -1,0 +1,3 @@
+Retrieval Augmented Generation (RAG) combines information retrieval with large language models. Instead of relying only on model memory, RAG retrieves relevant documents from a vector database.
+
+The pipeline typically includes document loading, text splitting, embedding generation, vector storage, and similarity search before generating responses.

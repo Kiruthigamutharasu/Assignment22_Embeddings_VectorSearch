@@ -1,0 +1,3 @@
+Vector databases store information as numerical embeddings. Embeddings are mathematical representations of text, images, or audio in high dimensional space.
+
+Similarity search works by comparing vectors using distance metrics like cosine similarity or Euclidean distance. This allows retrieval of semantically similar documents even if keywords are different.
